@@ -1,0 +1,4 @@
+files:
+  - source: /uk.json
+    translation: /%two_letters_code%.json
+    multilingual: 1
